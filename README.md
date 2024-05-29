@@ -1,4 +1,6 @@
 -- Dsecription
+
+
 Created an automated recipe bot involves building a web application that enables users to search for recipes based on specified ingredients
 The project consists of a frontend developed with HTML, CSS, and JavaScript, providing a user-friendly interface where users can input ingredients and view recipe results.
 The backend is powered by Node.js, which handles server-side logic, including routing and API requests. The application integrates with a third-party recipe API, such as Spoonacular, 
